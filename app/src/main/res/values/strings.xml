@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">MeMinderApp</string>
+    <string name="user_name_label">User Name</string>
+    <string name="user_name" />
+    <string name="password_label">Password</string>
+    <string name="password" />
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name_label">First Name</string>
+    <string name="first_name" />
+    <string name="lastName_label">Last Name</string>
+    <string name="last_name" />
+    <string name="email_label">Email</string>
+    <string name="email" />
+    <string name="passwords_label">Password</string>
+    <string name="passwords" />
+    <string name="back">Back to Login</string>
+    <string name="create_account2">Create Account</string>
+    <string name="passwords_label2">Re-enter Password</string>
+    <string name="passwords2" />
 </resources>
