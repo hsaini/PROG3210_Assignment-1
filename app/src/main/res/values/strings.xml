@@ -18,4 +18,5 @@
     <string name="create_account2">Create Account</string>
     <string name="passwords_label2">Re-enter Password</string>
     <string name="passwords2" />
+    <string name="cancel">Cancel</string>
 </resources>
